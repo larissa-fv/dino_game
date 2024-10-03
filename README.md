@@ -1,5 +1,5 @@
 
-# Dino Game - Larissa Ferreira
+# Dino Game 
 
 Este projeto é uma recriação do famoso **Dino Game** do Google Chrome, desenvolvido em **JavaScript**, inspirado no jogo que aparece quando o navegador está offline. O jogador controla um dinossauro que corre por um deserto, desviando de obstáculos.
 
@@ -36,4 +36,4 @@ Este jogo foi desenvolvido como parte de um desafio da plataforma de ensino Digi
 
 ## Demonstração
 
-![Demonstração Dino Game](css/img/dino_game_demo.jpg)
+![image](https://github.com/user-attachments/assets/461e576e-657e-462a-b567-935f6223eac5)
